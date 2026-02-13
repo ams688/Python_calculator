@@ -1,5 +1,5 @@
 # Calculator Program
-print("\033[1mCalculator Program\033[0m")
+print("\033[1mCalculator Program Welcome!\033[0m")
 #logic
 def add(*nums):
     "This func is used to addition numaricals"
